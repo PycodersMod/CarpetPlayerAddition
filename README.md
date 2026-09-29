@@ -649,3 +649,9 @@ give 指令用于把假人的物品转移给在线玩家。物品会优先进入
 - `inventory all`：转移物品栏储物格、快捷栏、副手和盔甲槽，不包含末影箱。
 - `enderchest all`：转移假人的末影箱。
 - `all`：转移 `inventory all` 和 `enderchest all`。
+
+## License
+
+本项目采用 MIT License，详见 [LICENSE](./LICENSE)。
+
+本仓库的 Gradle Wrapper 保留其随附的 Apache-2.0 许可，详见 [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md)。
