@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "carpet-player-addition",
+  "version": "${version}",
+  "name": "CarpetPlayerAddition",
+  "description": "Carpet /player fake player inventory extensions for swap, drop, give, take and pick operations.",
+  "authors": ["Pycoder"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "top.local.carpetplayeraddition.CarpetPlayerAddition"
+    ],
+    "client": [
+      "top.local.carpetplayeraddition.CarpetPlayerAdditionClient"
+    ]
+  },
+  "mixins": [
+    "carpet-player-addition.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "1.21.6",
+    "fabric-api": ">=0.128.2+1.21.6",
+    "carpet": ">=1.4.176"
+  }
+}
