@@ -9,10 +9,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "top.local.carpetplayeraddition.CarpetPlayerAddition"
+      "com.pycoder.carpetplayeraddition.CarpetPlayerAddition"
     ],
     "client": [
-      "top.local.carpetplayeraddition.CarpetPlayerAdditionClient"
+      "com.pycoder.carpetplayeraddition.CarpetPlayerAdditionClient"
     ]
   },
   "mixins": [
