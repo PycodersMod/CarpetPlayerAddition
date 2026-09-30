@@ -4,6 +4,7 @@
   "version": "${version}",
   "name": "CarpetPlayerAddition",
   "description": "Carpet /player fake player inventory extensions for swap, drop, give, take and pick operations.",
+  "icon": "assets/carpet-player-addition/logo.png",
   "authors": ["Pycoder"],
   "license": "MIT",
   "environment": "*",
