@@ -3,7 +3,7 @@
   "id": "carpet-player-addition",
   "version": "${version}",
   "name": "CarpetPlayerAddition",
-  "description": "Carpet /player fake player inventory extensions for swap, drop, give, take and pick operations.",
+  "description": "为 Carpet /player 假人添加物品栏扩展，支持交换、丢弃、给予、取回与拾取操作。",
   "icon": "assets/carpet-player-addition/logo.png",
   "authors": ["Pycoder"],
   "license": "MIT",
